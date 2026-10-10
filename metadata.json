@@ -1,0 +1,6 @@
+{
+  "name": "Clean Water Sprinklers",
+  "description": "Houston's premier lawn sprinkler system contractor. Professional sprinkler repairs, new installations, smart controllers, and backflow testing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
